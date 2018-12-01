@@ -1,3 +1,4 @@
 # kafka-workshop
 
-Kafka workshop - Hands-on exercise
+* Repository for Hands-on exercise
+* Follow the presentation slides as primary reference
