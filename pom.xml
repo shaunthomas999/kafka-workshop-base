@@ -4,18 +4,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.shaunthomas999.kafka</groupId>
-  <artifactId>kafka-workshop</artifactId>
+  <artifactId>kafka-workshop-base</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <modules>
-    <module>kafka-consumer</module>
-    <module>kafka-producer</module>
+    <module>kafka-producer-base</module>
     <module>kafka-shared-model</module>
-    <module>kafka-streams</module>
   </modules>
   <packaging>pom</packaging>
 
-  <name>kafka-workshop</name>
+  <name>kafka-workshop-base</name>
   <description>Kafka Workshop</description>
 
   <properties>
